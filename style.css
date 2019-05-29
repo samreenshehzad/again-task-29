@@ -1,0 +1,125 @@
+/* Write all your CSS here */
+/* Please indent properly */
+/* Please use only lower-case letters */
+/* Your webpage should be 100% responsive!!! */
+.side bar {
+background-color: #3f0e40;
+word-wrap: break-word;
+}
+.side bar a{
+    text-decoration: none;
+}
+.side-bar li{
+    list-style-type: none;
+    margin-left:20px;
+}
+
+header{ 
+ background-color: aqua;
+ display: flex;
+justify-content: flex-start;
+    
+}
+/* #icon{
+display:flex;
+justify-content: center;
+  */
+
+}
+
+/* button{ 
+    background-color: green;
+    color:white;
+    padding-top:1em 3em 1em 3em;
+    border-style:none;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+     display: block; */
+}
+.btn{
+    display: flex;
+    justify-content: flex-end;
+}
+ .item{
+     display: flex;
+     flex-direction: column;
+     text-align: center;
+ margin-top: 30px;
+margin-bottom: 30px; 
+
+}
+fieldset{
+    text-align: center;
+}
+#top-right{
+    /* display:flex;
+    flex-direction: column;
+    justify-content: space-between; */
+}
+#top-left >div {
+   display: flex;
+   justify-content: center;
+   text-align: center;
+    
+}
+#side{
+    display:flex;
+    justify-content: flex-end;
+} 
+.header-container{
+    display:flex;
+    justify-content: space-between;
+}
+.header-container{
+    background-color: bisque;
+}
+#top-left{
+    /* background-color: aqua; */
+    /* display: flex; */
+    padding:20px;
+}
+fieldset{
+    border-bottom: 0px;
+    border-right:0px;
+    border-left:0px;
+}
+#tobah div{
+    display:flex;
+
+}
+.item1{
+     background-color: #24292e;
+display: flex;
+flex-direction: row;
+align-items: stretch;
+padding: 0ch;
+font-size: 14px;
+line-height: 1.5;
+}
+/*
+.icon{
+margin-top: ;
+margin-bottom: 
+
+}
+button{
+    background-color: green;
+    color:white;
+    padding-top:1em 3em 1em 3em;
+    border-style:none;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.item{
+margin-top: 30px;
+margin-bottom: 30px;
+
+}
+fieldset{
+    text-align: center;
+ } */
